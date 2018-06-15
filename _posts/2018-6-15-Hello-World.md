@@ -55,7 +55,7 @@ title: Hello World
   * Написать тестовый пост с кучей кода
   * ~~Попробовать смайлики~~ :new_moon:
   * Сжать все картинки
-  * Написать про passю
+  * Написать про pass
 
 
 [post-example-image]: https://github.com/igoose1/igoose1.github.io/raw/master/images/2018-6-15-Hello-World/example.png
