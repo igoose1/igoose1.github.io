@@ -38,6 +38,7 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-feed
+  - jemoji
 
 exclude:
   - Gemfile
