@@ -51,7 +51,7 @@ title: Оно работает!
 ### Что в планах?
   * Добавить комментарии
   * Написать тестовый пост с кучей кода
-  * ~~Попробовать смайлики~~ :coffee:
+  * ~~Попробовать смайлики~~ :new_moon:
 
 
 [post-example]: https://github.com/igoose1/igoose1.github.io/raw/master/images/2018-6-15-Hello-World/example.png
