@@ -37,7 +37,7 @@ title: Hello World
 
 
 ### Github, исходники
-Перейдите [сюда](https://pages.github.com/), чтобы получить исходный код **всего** блога.
+Перейдите [сюда](https://github.com/igoose1/igoose1.github.io), чтобы получить исходный код **всего** блога.
 
 К примеру, этот длинный (*вообще нет*) текст можно посмотреть и md-файлом.
 [Вот](https://raw.githubusercontent.com/igoose1/igoose1.github.io/master/_posts/2018-6-15-Hello-World.md). 
