@@ -41,5 +41,17 @@ title: Оно работает!
 [Вот](https://raw.githubusercontent.com/igoose1/igoose1.github.io/master/_posts/2018-6-15-Hello-World.md). 
 
 
+### Эээ... А сам ты не сп...	
+Да, темплэйт этого блога тоже откуда-то взят.
+Но нельзя говорить, что я *спер* блог.
+
+Это все Open Source, значит не спер, а **форкнул**, то есть ответлил проект в сторону моего блога.
+
+
+### Что в планах?
+  * Добавить комментарии
+  * Написать тестовый пост с кучей кода
+  * ~~Попробовать смайлики~~ :coffee:
+
 
 [post-example]: https://github.com/igoose1/igoose1.github.io/raw/master/images/2018-6-15-Hello-World/example.png
