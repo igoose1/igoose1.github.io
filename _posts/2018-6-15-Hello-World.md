@@ -27,7 +27,7 @@ title: Оно работает!
 В [git pages](https://pages.github.com/) есть поддержка jekyll.
 Поэтому возможно писать посты в md-файлах и пушить (`git push`) в гит, чтобы обновить посты.
 
-![alt text][post-example]
+![alt text][post-example-image]
 
 Удобно, не так ли?
 
@@ -52,6 +52,6 @@ title: Оно работает!
   * Добавить комментарии
   * Написать тестовый пост с кучей кода
   * ~~Попробовать смайлики~~ :new_moon:
+  
 
-
-[post-example]: https://github.com/igoose1/igoose1.github.io/raw/master/images/2018-6-15-Hello-World/example.png
+[post-example-image]: https://github.com/igoose1/igoose1.github.io/raw/master/images/2018-6-15-Hello-World/example.png
