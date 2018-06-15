@@ -13,7 +13,7 @@ title: Оно работает!
 
 ### Что же такое jekyll?
 [jekyll](https://jekyllrb.com/) -- генератор статичных сайтов.
-Он умеет превращать [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)-файлы в статичные html-файлы.
+Он умеет превращать [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)-файлы в статичные html-файлы.
 
 Статичные сайты хороши тем, что:
   * Быстрее грузятся
