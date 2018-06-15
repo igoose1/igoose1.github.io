@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Оно работает!
+title: Hello World
 ---
 
-### Начало
 Я запустил блог на git pages + jekyll.
 Интересно, до чего это дорастет?
 
@@ -52,6 +51,6 @@ title: Оно работает!
   * Добавить комментарии
   * Написать тестовый пост с кучей кода
   * ~~Попробовать смайлики~~ :new_moon:
-  
+
 
 [post-example-image]: https://github.com/igoose1/igoose1.github.io/raw/master/images/2018-6-15-Hello-World/example.png
