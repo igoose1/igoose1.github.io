@@ -31,7 +31,7 @@ title: Hello World
 В [git pages](https://pages.github.com/) есть поддержка jekyll.
 Поэтому возможно писать посты в md-файлах и пушить (`git push`) в гит, чтобы обновить посты.
 
-![alt text][post-example-image]
+![example image][post-example-image]
 
 Удобно, не так ли?
 
