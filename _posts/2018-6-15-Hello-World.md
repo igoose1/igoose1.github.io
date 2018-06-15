@@ -12,7 +12,7 @@ title: Оно работает!
 Изначально использовал площадку [telegra.ph](https://telegra.ph/), но Роскомнадзор забанил его, пытаясь заблокировать telegram.
 
 ### Что же такое jekyll?
-(jekyll)(https://jekyllrb.com/) -- генератор статичных сайтов.
+[jekyll](https://jekyllrb.com/) -- генератор статичных сайтов.
 Он умеет превращать [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)-файлы в статичные html-файлы.
 
 Статичные сайты хороши тем, что:
