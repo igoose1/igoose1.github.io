@@ -58,4 +58,4 @@ title: Hello World
   * Написать про pass
 
 
-[post-example-image]: https://github.com/igoose1/igoose1.github.io/raw/master/images/Hello-World/example.png
+[post-example-image]: https://github.com/igoose1/igoose1.github.io/raw/master/images/Hello-World/example.jpg
