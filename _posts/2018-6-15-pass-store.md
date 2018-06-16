@@ -194,3 +194,5 @@ Android Password Store
 [pass-init]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/pass-init.png
 [pass-tree]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/pass-tree.png
 [pass-generate]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/pass-generate.png
+[android-password-store]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/android-password-store.png
+[android-password-store-menu]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/android-password-store-menu.png
