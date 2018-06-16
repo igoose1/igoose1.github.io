@@ -51,11 +51,11 @@ title: Hello World
 
 
 ### Планы
-  * [ ] Добавить комментарии
-  * [ ] Написать тестовый пост с кучей кода
-  * [ ] Попробовать смайлики :new_moon:
-  * [ ] Сжать все картинки
-  * [ ] Написать про pass
+  - [ ] Добавить комментарии
+  - [ ] Написать тестовый пост с кучей кода
+  - [ ] Попробовать смайлики :new_moon:
+  - [ ] Сжать все картинки
+  - [ ] Написать про pass
 
 
 [post-example-image]: https://github.com/igoose1/igoose1.github.io/raw/master/images/Hello-World/example.jpg
