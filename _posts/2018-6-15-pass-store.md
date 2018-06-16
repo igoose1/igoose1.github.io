@@ -150,5 +150,6 @@ pass rm -R Random-site/
 
 [pass-phrase]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/passphrase.png
 [list-keys]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/list-keys.png
-
-
+[pass-init]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/pass-init.png
+[pass-tree]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/pass-tree.png
+[pass-generate]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/pass-generate.png
