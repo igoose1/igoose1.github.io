@@ -18,3 +18,12 @@ title: Публикации в telegram
 
 На самом деле я еще не тестировал эту функцию, поэтому решил написать этот пост.
 Сейчас посмотрим.
+
+UPD:
+
+Мда, это не то, что я ожидал.
+
+![Сообщение в канале от IFTTT][ifttt-message]
+
+[post-example-image]: {{ "/images/Hello-World/example.jpg" | absolute_url }}
+[ifttt-message]: {{ "/images/rss-to-telegram/ifttt-message.png" | absolute_url }}
