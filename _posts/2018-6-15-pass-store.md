@@ -190,10 +190,10 @@ Android Password Store
 [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/),
 
 
-[pass-phrase]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/passphrase.png
-[list-keys]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/list-keys.png
-[pass-init]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/pass-init.png
-[pass-tree]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/pass-tree.png
-[pass-generate]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/pass-generate.png
-[android-password-store]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/android-password-store.png
-[android-password-store-menu]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/android-password-store-menu.png
+[pass-phrase]: {{ "/images/pass-store/passphrase.png" | absolute_url }}
+[list-keys]: {{ "/images/pass-store/list-keys.png" | absolute_url }}
+[pass-init]: {{ "/images/pass-store/pass-init.png" | absolute_url }}
+[pass-tree]: {{ "/images/pass-store/pass-tree.png" | absolute_url }}
+[pass-generate]: {{ "/images/pass-store/pass-generate.png" | absolute_url }}
+[android-password-store]: {{ "/images/pass-store/android-password-store.png" | absolute_url }}
+[android-password-store-menu]: {{ "/images/pass-store/android-password-store-menu.png" | absolute_url }}
