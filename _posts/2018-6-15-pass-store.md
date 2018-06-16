@@ -181,9 +181,9 @@ pass git remote add origin https://github.com/igoose1/passwords.git
 
 Android Password Store
 
-![Android Password Store][andoid-password-store]
+![Android Password Store][android-password-store]
 
-![Меню Android Password Store][andoid-password-store-menu]
+![Меню Android Password Store][android-password-store-menu]
 
 ### Источники
 
