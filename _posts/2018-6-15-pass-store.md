@@ -148,8 +148,9 @@ pass git init
 pass git remote add origin url
 ```
 где `url` -- это ссылка на git-репозиторий. Например:
-
-![Подключение git-репозитория][pass-git]
+```bash
+pass git remote add origin https://github.com/igoose1/passwords.git
+```
 
 Теперь у вас есть возможность сохранять пароли в облако (конечно, они будут в зашифрованном виде) и синхронизировать их с другими устройствами.
 
