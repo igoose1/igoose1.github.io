@@ -58,4 +58,4 @@ title: Hello World
   * [X] Написать про pass
 
 
-[post-example-image]: { "/images/Hello-World/example.jpg" | absolute_url }}
+[post-example-image]: {{ "/images/Hello-World/example.jpg" | absolute_url }}
