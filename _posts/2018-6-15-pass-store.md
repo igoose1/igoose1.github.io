@@ -143,9 +143,50 @@ pass rm -R Random-site/
 для рекурсивного удаления папки.
 
 ### Синхронизация с git
+```bash
+pass git init
+pass git remote add origin url
+```
+где `url` -- это ссылка на git-репозиторий. Например:
 
-**...**
+![Подключение git-репозитория][pass-git]
 
+Теперь у вас есть возможность сохранять пароли в облако (конечно, они будут в зашифрованном виде) и синхронизировать их с другими устройствами.
+
+`pass` автоматически делает читабельные коммиты на каждое добавление и изменение в хранилище.
+Используйте `pass git push`, чтобы запушить изменения в гит и `pass git fetch`, чтобы получить изменения из гита.
+
+
+### Остальные клиенты `pass`
+  * Android
+    * [Android-Password-Store](https://github.com/zeapo/Android-Password-Store) (рекомендую)
+  * IOS
+    * [passforios](https://mssun.github.io/passforios)
+    * [pass-ios](https://github.com/davidjb/pass-ios) (устарел)
+  * Браузеры
+    * Chrome
+      * [browserpass](https://github.com/dannyvankooten/browserpass)
+    * Firefox
+      * [passff](https://github.com/jvenant/passff)
+  * dmenu
+    * [passmenu](https://git.zx2c4.com/password-store/tree/contrib/dmenu)
+  * Windows
+    * [qtpass](http://qtpass.org) (кроссплатформенный)
+    * [Pass4Win](https://github.com/mbos/Pass4Win)
+  * OS X
+    * [qtpass](http://qtpass.org) (кроссплатформенный)
+    * [pass.applescript](https://git.zx2c4.com/password-store/tree/contrib/pass.applescript)
+
+
+Android Password Store
+
+![Android Password Store][andoid-password-store]
+
+![Меню Android Password Store][andoid-password-store-menu]
+
+### Источники
+
+[Pass: The Standard Unix Password Manager](https://www.passwordstore.org/),
 
 
 [pass-phrase]: https://github.com/igoose1/igoose1.github.io/raw/master/images/pass-store/passphrase.png
