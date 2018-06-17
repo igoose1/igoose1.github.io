@@ -25,5 +25,13 @@ UPD:
 
 ![Сообщение в канале от IFTTT][ifttt-message]
 
+UPD:
+
+Ее, это оно.
+Только мне пришлось свой applet создавать.
+
+![Сообщение в канале от IFTTT][ifttt-message]
+
+
 [post-example-image]: {{ "/images/Hello-World/example.jpg" | absolute_url }}
 [ifttt-message]: {{ "/images/rss-to-telegram/ifttt-message.png" | absolute_url }}
