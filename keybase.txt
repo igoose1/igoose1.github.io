@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/igoose
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://igoose.me
+  * I am igoose (https://keybase.io/igoose) on keybase.
+  * I have a public key ASC-nkYbR2jd73l4ZW-mZNhF0NrJHxAAzy4qnitTKlRnowo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120be9e461b4768ddef7978656fa664d845d0dac91f1000cf2e2a9e2b532a5467a30a",
+      "host": "keybase.io",
+      "kid": "0120be9e461b4768ddef7978656fa664d845d0dac91f1000cf2e2a9e2b532a5467a30a",
+      "uid": "752a80f4bf11d1f0aef2886295c1a419",
+      "username": "igoose"
+    },
+    "merkle_root": {
+      "ctime": 1532037443,
+      "hash": "9d8dd7afd57f16e32f932a1b6cbc0cef2585b52323445b25dc977f57fe5f18de2e8fc4500360781e18602bb86ea0eab8a756c6f4991cf89f2690fd5e226f8b07",
+      "hash_meta": "f1256175890183347844cd530ad539370decdd01941ec1a5ca5a941f47977f3f",
+      "seqno": 3295219
+    },
+    "service": {
+      "entropy": "NZ32y/XFvyEOlGt4qrrafqz1",
+      "hostname": "igoose.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.2"
+  },
+  "ctime": 1532037457,
+  "expire_in": 504576000,
+  "prev": "416d9613a6a5a090b5454ccae02372fbe80828912b293456ac2d39d7a2212940",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvp5GG0do3e95eGVvpmTYRdDayR8QAM8uKp4rUypUZ6MKp3BheWxvYWTESpcCCMQgQW2WE6aloJC1RUzK4CNy++gIKJErKTRWrC0516IhKUDEIBglE2liEeLQedizpogTPZf7V+FzFJTSoafIGd8mFQuiAgHCo3NpZ8RAj/DVFjuz4k5lau4iWthr5P6NkzOqxNJK3uPi8016hkVZ3UhEk7MyDO74Q+55nHSfXremX62/KjdyQwh8G3/EDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJTK2g6UPBQqDUN9iFo7ZhUjzcdv7FAyMkjNHp1W1x/lo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/igoose
+
+==================================================================
